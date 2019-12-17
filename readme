@@ -1,4 +1,4 @@
-to start the program,type the following command in the terminal
+to start the application, compile the main.cpp file and run the executable. 
 
 >>> g++ main.cpp data_func.h pf_conversion.h
 >>> ./a.out
@@ -9,4 +9,4 @@ to exit the program,type the following command within the program
 >>> exit
 
 
-for query syntax and other assumptions made, refer to the documentation (PDF file).
+for query syntax and other assumptions made, refer to the documentation.pdf
