@@ -1,0 +1,12 @@
+to start the program,type the following command in the terminal
+
+>>> g++ main.cpp data_func.h pf_conversion.h
+>>> ./a.out
+
+
+to exit the program,type the following command within the program
+
+>>>exit
+
+
+for query syntax and other assumptions made, refer to the documentation (PDF file).

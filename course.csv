@@ -1,0 +1,13 @@
+cid,cname,professor,credits,department
+CS-101,basic-C,aks,5,cse
+CS-102,python,akl,7,cse
+BIO-101,biology,pop,3,biomed
+CS-302,dbms,rnc,11,cse
+CS-301,graphics,rs,9,cse
+CS-201,algorithms,rss,11,cse
+HV-101,humanities,rjs,4,arts
+MA-101,calculus,vns,11,maths
+MA-102,algebra,vns,14,maths
+ED-101,drawing,rsp,9,mech
+ME-101,mechanics,roj,11,mech
+CP-201,music,ski,7,arts
